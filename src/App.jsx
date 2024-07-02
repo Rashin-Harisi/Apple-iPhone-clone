@@ -11,7 +11,7 @@ const App=()=> {
 
 
   return (
-    <main className="bg-black">
+    <main className="bg-black overflow-hidden">
       <Navbar />
       <Hero />
       <Highlights/> 
